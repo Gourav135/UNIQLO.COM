@@ -1,6 +1,6 @@
 # UNIQLO.COM
 
-This is clone of Uniqlo.com. It is an Indian e-commerce web application to purchase clothing . This project has been completed by team of five members in 4 days .
+One of the world's largest apparel retail company offering clothing, shoes, and accessories for men, women and kids.
 
 # Deployed Link:
 
